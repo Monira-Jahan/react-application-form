@@ -54,11 +54,11 @@ const SecondPage = () => {
             <List
                 sx={{ width: '100%', maxWidth: 360, bgcolor: 'background.paper',marginRight:25,marginLeft:25}}
                 component="nav"
-                className='ml-36'
+                
                 aria-labelledby="nested-list-subheader"
                 subheader={
                     <ListSubheader component="div" id="nested-list-subheader">
-                        Nested List Items
+                        Department List
                     </ListSubheader>
                 }
             >
